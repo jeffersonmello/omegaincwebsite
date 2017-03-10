@@ -8,7 +8,7 @@ $assunto  =  $_POST['assunto'];
 $mensagem = $_POST['mensagem'];
 
 
-$arquivo = "<b> Mensagem enviada do site omegainc.esy.es</b> <br>
+$arquivo = "<b> Mensagem enviada do site omegainc.com.br</b> <br>
   <hr>
   Nome: $nome <br>
   Email: $email <br>
